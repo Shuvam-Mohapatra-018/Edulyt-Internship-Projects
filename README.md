@@ -1,1 +1,1 @@
-# Edulyt-Internship-Projects
+# Edulyt
